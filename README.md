@@ -15,6 +15,7 @@
 
 - Desenvolvimento de um app para gestão de obras, materiais e orçamentos
 - Automação de coleta e integração de dados em CTOs
+  
 📚 Estudando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul e aprofundando conhecimentos em Linux e cybersecurity. Sempre explorando novas tecnologias e buscando evolução constante.
 <!---
 HallysonHendryck/HallysonHendryck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
